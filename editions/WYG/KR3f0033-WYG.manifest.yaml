@@ -1,0 +1,79 @@
+canonical_identifier: bkk:krp/KR3f0033/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0033/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孫子算經
+  identifiers:
+    krp: KR3f0033
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0033.xml
+  edition:
+    short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0033_000-WYG.yaml, hash: 'sha256:09b3ff4cb47a7de2d1e64e9608a0df85ad0a296ed669120ed93432ee96a67ee2'}
+  - {seq: 1, filename: KR3f0033_001-WYG.yaml, hash: 'sha256:bc5525dcdb596e302671897013a8a4da02c057e567989b15b670101684c5450f'}
+  - {seq: 2, filename: KR3f0033_002-WYG.yaml, hash: 'sha256:4be9ad69ac679245403778828f8a033268348925ace4e2f298c0166bd3ed905d'}
+  - {seq: 3, filename: KR3f0033_003-WYG.yaml, hash: 'sha256:3f0eaec5515bd178a60b4bbdbc32795fb1e516c52f96dff0b41c31c1f9e4b0ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0033_000-WYG.markers.yaml, hash: 'sha256:e2841ac337f9915c0f048c113091276add06cdf135d529248fe71d45f92dfbd7'}
+  - {seq: 1, role: markers, filename: assets/KR3f0033_001-WYG.markers.yaml, hash: 'sha256:daad553b99dd849893b372174df2194fde5b8b105bd6ecb1ec2f3e64608dd11b'}
+  - {seq: 2, role: markers, filename: assets/KR3f0033_002-WYG.markers.yaml, hash: 'sha256:4365ae9e6e53f112bba26dbc3a40dde4ddad5adf77fc91da281a826389c892ae'}
+  - {seq: 3, role: markers, filename: assets/KR3f0033_003-WYG.markers.yaml, hash: 'sha256:9d7f4c0dd69583d823bab9cd121c0008f5b07e965f5bcb8621939ea34bf05e6f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0033_WYG_000-d12head.s1
+    span:
+    - front
+    - 0
+    - 224
+  label: 孫子算經原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0033_WYG_000-d11head.s3
+    span:
+    - body
+    - 0
+    - 531
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3026
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3359
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3207
+  label: ''
+  type: section
+  level: 1
+hash: sha256:79b2d8b87223e91fd940cc9a6ace7f8a4b828dc1cbd19cd3fc668b0f0e39d98a

@@ -1,0 +1,146 @@
+canonical_identifier: bkk:krp/KR3f0033/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR3f0033_WYG_000-bkklb1}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書子部六}
+  - {type: page-break, offset: 0, content: '', id: KR3f0033_WYG_000-1a, image: WYG0797/WYG0797-0139a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書子部六}
+  - {type: variant, offset: 4, length: 6, content: 原序孫子曰夫, WYG: 天文}
+  - {type: variant, offset: 4, length: 6, content: 原序孫子曰夫, krp: 天文}
+  - {type: xml-element, offset: 6, content: '', id: KR3f0033_WYG_000-d12p1}
+  - {type: 'tls:seg-start', offset: 6, content: '', id: KR3f0033_WYG_000-d12p1.s2}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3f0033_WYG_000-d12p1.s2}
+  - {type: line-break, offset: 6, content: '', id: KR3f0033_WYG_000-bkklb2}
+  - {type: punctuation, offset: 9, content: ：, id: KR3f0033_WYG_000-bkkpn1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3f0033_WYG_000-d12p1.s2.1}
+  - {type: variant, offset: 11, length: 3, content: 者天地, WYG: 法類二算書}
+  - {type: variant, offset: 11, length: 3, content: 者天地, krp: 法類二算書}
+  - {type: variant, offset: 15, length: 209, content: 經緯羣生之元首五常之本末陰陽之父母星辰之建號三光之表裏五行之準平四時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷二氣之降升推寒暑之迭運步逺近之殊同觀天道精微之兆基察地理從横之長短采神祇之所在極成敗之符驗窮道徳之理究性命之情立規矩準方圓謹法度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不朽施八極而無疆散之不可勝究斂之不盈掌握嚮之者富有餘背之者貧且窶心開者幼沖而即悟意閉者皓首而難精夫欲學之者必務量能揆已志在所専如是則焉有不成者哉, WYG: 屬}
+  - {type: variant, offset: 15, length: 209, content: 經緯羣生之元首五常之本末陰陽之父母星辰之建號三光之表裏五行之準平四時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷二氣之降升推寒暑之迭運步逺近之殊同觀天道精微之兆基察地理從横之長短采神祇之所在極成敗之符驗窮道徳之理究性命之情立規矩準方圓謹法度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不朽施八極而無疆散之不可勝究斂之不盈掌握嚮之者富有餘背之者貧且窶心開者幼沖而即悟意閉者皓首而難精夫欲學之者必務量能揆已志在所専如是則焉有不成者哉, krp: 屬}
+  - {type: 'tls:seg-end', offset: 27, content: '', id: KR3f0033_WYG_000-d12p1.s2.1_end}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR3f0033_WYG_000-d12p1.s3}
+  - {type: line-break, offset: 27, content: '', id: KR3f0033_WYG_000-bkklb3}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3f0033_WYG_000-d12p1.s4}
+  - {type: line-break, offset: 48, content: '', id: KR3f0033_WYG_000-bkklb4}
+  - {type: substitution, offset: 68, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3f0033_WYG_000-d12p1.s5}
+  - {type: line-break, offset: 69, content: '', id: KR3f0033_WYG_000-bkklb5}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3f0033_WYG_000-d12p1.s6}
+  - {type: line-break, offset: 90, content: '', id: KR3f0033_WYG_000-bkklb6}
+  - {type: substitution, offset: 98, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR3f0033_WYG_000-d12p1.s7}
+  - {type: line-break, offset: 111, content: '', id: KR3f0033_WYG_000-bkklb7}
+  - {type: substitution, offset: 116, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
+  - {type: 'tls:seg', offset: 132, content: '', id: KR3f0033_WYG_000-d12p1.s8}
+  - {type: line-break, offset: 132, content: '', id: KR3f0033_WYG_000-bkklb8}
+  - {type: page-break, offset: 153, content: '', id: KR3f0033_WYG_000-4b}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3f0033_WYG_000-d12p1.s9}
+  - {type: line-break, offset: 153, content: '', id: KR3f0033_WYG_000-bkklb9}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3f0033_WYG_000-d12p1.s10}
+  - {type: line-break, offset: 174, content: '', id: KR3f0033_WYG_000-bkklb10}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR3f0033_WYG_000-d12p1.s11}
+  - {type: line-break, offset: 195, content: '', id: KR3f0033_WYG_000-bkklb11}
+  - {type: 'tls:seg', offset: 216, content: '', id: KR3f0033_WYG_000-d12p1.s12}
+  - {type: line-break, offset: 216, content: '', id: KR3f0033_WYG_000-bkklb12}
+  - {type: xml-element, offset: 224, content: '', id: KR3f0033_WYG_000-d12p1_end}
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR3f0033_WYG_000-bkklb1}
+  - {type: xml-element, offset: 2, content: '', id: KR3f0033_WYG_000-d11p1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3f0033_WYG_000-d11p1.s4}
+  - {type: line-break, offset: 2, content: '', id: KR3f0033_WYG_000-bkklb2}
+  - {type: punctuation, offset: 2, content: (, id: KR3f0033_WYG_000-bkkpn1}
+  - {type: punctuation, offset: 3, content: ), id: KR3f0033_WYG_000-bkkpn2}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3f0033_WYG_000-d11p1.s5}
+  - {type: line-break, offset: 19, content: '', id: KR3f0033_WYG_000-bkklb3}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3f0033_WYG_000-d11p1.s6}
+  - {type: line-break, offset: 36, content: '', id: KR3f0033_WYG_000-bkklb4}
+  - {type: substitution, offset: 52, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3f0033_WYG_000-d11p1.s7}
+  - {type: line-break, offset: 53, content: '', id: KR3f0033_WYG_000-bkklb5}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR3f0033_WYG_000-d11p1.s8}
+  - {type: line-break, offset: 70, content: '', id: KR3f0033_WYG_000-bkklb6}
+  - {type: page-break, offset: 87, content: '', id: KR3f0033_WYG_000-1b}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3f0033_WYG_000-d11p1.s9}
+  - {type: line-break, offset: 87, content: '', id: KR3f0033_WYG_000-bkklb7}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3f0033_WYG_000-d11p1.s10}
+  - {type: line-break, offset: 104, content: '', id: KR3f0033_WYG_000-bkklb8}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3f0033_WYG_000-d11p1.s11}
+  - {type: line-break, offset: 121, content: '', id: KR3f0033_WYG_000-bkklb9}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR3f0033_WYG_000-d11p1.s12}
+  - {type: line-break, offset: 138, content: '', id: KR3f0033_WYG_000-bkklb10}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR3f0033_WYG_000-d11p1.s13}
+  - {type: line-break, offset: 155, content: '', id: KR3f0033_WYG_000-bkklb11}
+  - {type: substitution, offset: 166, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3f0033_WYG_000-d11p1.s14}
+  - {type: line-break, offset: 172, content: '', id: KR3f0033_WYG_000-bkklb12}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3f0033_WYG_000-d11p1.s15}
+  - {type: line-break, offset: 189, content: '', id: KR3f0033_WYG_000-bkklb13}
+  - {type: substitution, offset: 195, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR3f0033_WYG_000-d11p1.s16}
+  - {type: line-break, offset: 206, content: '', id: KR3f0033_WYG_000-bkklb14}
+  - {type: page-break, offset: 223, content: '', id: KR3f0033_WYG_000-2a}
+  - {type: 'tls:seg', offset: 223, content: '', id: KR3f0033_WYG_000-d11p1.s17}
+  - {type: line-break, offset: 223, content: '', id: KR3f0033_WYG_000-bkklb15}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR3f0033_WYG_000-d11p1.s18}
+  - {type: line-break, offset: 240, content: '', id: KR3f0033_WYG_000-bkklb16}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR3f0033_WYG_000-d11p1.s19}
+  - {type: line-break, offset: 257, content: '', id: KR3f0033_WYG_000-bkklb17}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR3f0033_WYG_000-d11p1.s20}
+  - {type: line-break, offset: 274, content: '', id: KR3f0033_WYG_000-bkklb18}
+  - {type: substitution, offset: 280, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
+  - {type: substitution, offset: 285, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: 'tls:seg', offset: 291, content: '', id: KR3f0033_WYG_000-d11p1.s21}
+  - {type: line-break, offset: 291, content: '', id: KR3f0033_WYG_000-bkklb19}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR3f0033_WYG_000-d11p1.s22}
+  - {type: line-break, offset: 308, content: '', id: KR3f0033_WYG_000-bkklb20}
+  - {type: substitution, offset: 319, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: 'tls:seg', offset: 325, content: '', id: KR3f0033_WYG_000-d11p1.s23}
+  - {type: line-break, offset: 325, content: '', id: KR3f0033_WYG_000-bkklb21}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR3f0033_WYG_000-d11p1.s24}
+  - {type: line-break, offset: 342, content: '', id: KR3f0033_WYG_000-bkklb22}
+  - {type: page-break, offset: 359, content: '', id: KR3f0033_WYG_000-2b}
+  - {type: 'tls:seg', offset: 359, content: '', id: KR3f0033_WYG_000-d11p1.s25}
+  - {type: line-break, offset: 359, content: '', id: KR3f0033_WYG_000-bkklb23}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR3f0033_WYG_000-d11p1.s26}
+  - {type: line-break, offset: 376, content: '', id: KR3f0033_WYG_000-bkklb24}
+  - {type: substitution, offset: 385, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
+  - {type: substitution, offset: 392, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR3f0033_WYG_000-d11p1.s27}
+  - {type: line-break, offset: 393, content: '', id: KR3f0033_WYG_000-bkklb25}
+  - {type: substitution, offset: 401, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
+  - {type: substitution, offset: 403, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'tls:seg', offset: 410, content: '', id: KR3f0033_WYG_000-d11p1.s28}
+  - {type: line-break, offset: 410, content: '', id: KR3f0033_WYG_000-bkklb26}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR3f0033_WYG_000-d11p1.s29}
+  - {type: line-break, offset: 427, content: '', id: KR3f0033_WYG_000-bkklb27}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR3f0033_WYG_000-d11p1.s30}
+  - {type: line-break, offset: 444, content: '', id: KR3f0033_WYG_000-bkklb28}
+  - {type: 'tls:seg', offset: 461, content: '', id: KR3f0033_WYG_000-d11p1.s31}
+  - {type: line-break, offset: 461, content: '', id: KR3f0033_WYG_000-bkklb29}
+  - {type: 'tls:seg', offset: 478, content: '', id: KR3f0033_WYG_000-d11p1.s32}
+  - {type: line-break, offset: 478, content: '', id: KR3f0033_WYG_000-bkklb30}
+  - {type: substitution, offset: 485, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
+  - {type: page-break, offset: 495, content: '', id: KR3f0033_WYG_000-3a}
+  - {type: 'tls:seg', offset: 495, content: '', id: KR3f0033_WYG_000-d11p1.s33}
+  - {type: line-break, offset: 495, content: '', id: KR3f0033_WYG_000-bkklb31}
+  - {type: xml-element, offset: 510, content: '', id: KR3f0033_WYG_000-d11p1_end}
+  - {type: xml-element, offset: 510, content: '', id: KR3f0033_WYG_000-d11p2}
+  - {type: 'tls:seg', offset: 510, content: '', id: KR3f0033_WYG_000-d11p2.s34}
+  - {type: line-break, offset: 510, content: '', id: KR3f0033_WYG_000-bkklb32}
+  - {type: punctuation, offset: 513, content: (, id: KR3f0033_WYG_000-bkkpn3}
+  - {type: punctuation, offset: 514, content: ), id: KR3f0033_WYG_000-bkkpn4}
+  - {type: punctuation, offset: 516, content: (, id: KR3f0033_WYG_000-bkkpn5}
+  - {type: punctuation, offset: 517, content: ), id: KR3f0033_WYG_000-bkkpn6}
+  - {type: punctuation, offset: 520, content: (, id: KR3f0033_WYG_000-bkkpn7}
+  - {type: punctuation, offset: 521, content: ), id: KR3f0033_WYG_000-bkkpn8}
+  - {type: 'tls:seg', offset: 524, content: '', id: KR3f0033_WYG_000-d11p2.s35}
+  - {type: line-break, offset: 524, content: '', id: KR3f0033_WYG_000-bkklb33}
+  - {type: punctuation, offset: 527, content: (, id: KR3f0033_WYG_000-bkkpn9}
+  - {type: punctuation, offset: 528, content: ), id: KR3f0033_WYG_000-bkkpn10}
+  - {type: page-break, offset: 531, content: '', id: KR3f0033_WYG_000-4a}
+  - {type: xml-element, offset: 531, content: '', id: KR3f0033_WYG_000-d11p2_end}
+  - {type: variant, offset: 531, length: 0, content: '', WYG: 孫子算經原序孫子曰夫算者天地之經緯羣生之元首五常之本末陰陽之父母星辰之建號三光之表裏五行之準平四時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷二氣之降升推寒暑之迭運步逺近之殊同觀天道精微之兆基察地理從横之長短采神祇之所在極成敗之符驗窮道徳之理究性命之情立規矩準方圓謹法度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不朽施八極而無疆散之不可勝究斂之不盈掌握嚮之者富有餘背之者貧且窶心開者幼沖而即悟意閉者皓首而難精夫欲學之者必務量能揆已志在所専如是則焉有不成者哉}
+  - {type: variant, offset: 531, length: 0, content: '', krp: 孫子算經原序孫子曰夫算者天地之經緯羣生之元首五常之本末陰陽之父母星辰之建號三光之表裏五行之準平四時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷二氣之降升推寒暑之迭運步逺近之殊同觀天道精微之兆基察地理從横之長短采神祇之所在極成敗之符驗窮道徳之理究性命之情立規矩準方圓謹法度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不朽施八極而無疆散之不可勝究斂之不盈掌握嚮之者富有餘背之者貧且窶心開者幼沖而即悟意閉者皓首而難精夫欲學之者必務量能揆已志在所専如是則焉有不成者哉}
+  back: []
+hash: sha256:c8e4138a4c5b25316f821dec596f26a5cecfe2ef66d2dd5199d309cfffea1fe8
