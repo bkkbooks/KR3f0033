@@ -50,6 +50,7 @@ markers:
   - {type: 'tls:seg', offset: 2, content: '', id: KR3f0033_WYG_000-d11p1.s4}
   - {type: line-break, offset: 2, content: '', id: KR3f0033_WYG_000-bkklb2}
   - {type: punctuation, offset: 2, content: (, id: KR3f0033_WYG_000-bkkpn1}
+  - {type: voice, offset: 2, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3, content: ), id: KR3f0033_WYG_000-bkkpn2}
   - {type: 'tls:seg', offset: 19, content: '', id: KR3f0033_WYG_000-d11p1.s5}
   - {type: line-break, offset: 19, content: '', id: KR3f0033_WYG_000-bkklb3}
@@ -127,18 +128,22 @@ markers:
   - {type: 'tls:seg', offset: 510, content: '', id: KR3f0033_WYG_000-d11p2.s34}
   - {type: line-break, offset: 510, content: '', id: KR3f0033_WYG_000-bkklb32}
   - {type: punctuation, offset: 513, content: (, id: KR3f0033_WYG_000-bkkpn3}
+  - {type: voice, offset: 513, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 514, content: ), id: KR3f0033_WYG_000-bkkpn4}
   - {type: punctuation, offset: 516, content: (, id: KR3f0033_WYG_000-bkkpn5}
+  - {type: voice, offset: 516, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 517, content: ), id: KR3f0033_WYG_000-bkkpn6}
   - {type: punctuation, offset: 520, content: (, id: KR3f0033_WYG_000-bkkpn7}
+  - {type: voice, offset: 520, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 521, content: ), id: KR3f0033_WYG_000-bkkpn8}
   - {type: 'tls:seg', offset: 524, content: '', id: KR3f0033_WYG_000-d11p2.s35}
   - {type: line-break, offset: 524, content: '', id: KR3f0033_WYG_000-bkklb33}
   - {type: punctuation, offset: 527, content: (, id: KR3f0033_WYG_000-bkkpn9}
+  - {type: voice, offset: 527, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 528, content: ), id: KR3f0033_WYG_000-bkkpn10}
   - {type: page-break, offset: 531, content: '', id: KR3f0033_WYG_000-4a}
   - {type: xml-element, offset: 531, content: '', id: KR3f0033_WYG_000-d11p2_end}
   - {type: variant, offset: 531, length: 0, content: '', WYG: 孫子算經原序孫子曰夫算者天地之經緯羣生之元首五常之本末陰陽之父母星辰之建號三光之表裏五行之準平四時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷二氣之降升推寒暑之迭運步逺近之殊同觀天道精微之兆基察地理從横之長短采神祇之所在極成敗之符驗窮道徳之理究性命之情立規矩準方圓謹法度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不朽施八極而無疆散之不可勝究斂之不盈掌握嚮之者富有餘背之者貧且窶心開者幼沖而即悟意閉者皓首而難精夫欲學之者必務量能揆已志在所専如是則焉有不成者哉}
   - {type: variant, offset: 531, length: 0, content: '', krp: 孫子算經原序孫子曰夫算者天地之經緯羣生之元首五常之本末陰陽之父母星辰之建號三光之表裏五行之準平四時之終始萬物之祖宗六藝之綱紀稽羣倫之聚散攷二氣之降升推寒暑之迭運步逺近之殊同觀天道精微之兆基察地理從横之長短采神祇之所在極成敗之符驗窮道徳之理究性命之情立規矩準方圓謹法度約尺丈立權衡平重輕剖毫釐析泰絫厯億載而不朽施八極而無疆散之不可勝究斂之不盈掌握嚮之者富有餘背之者貧且窶心開者幼沖而即悟意閉者皓首而難精夫欲學之者必務量能揆已志在所専如是則焉有不成者哉}
   back: []
-hash: sha256:61980b8e5e96c73d4fc64ba57f695fb9ad71dda3b19fdfeacf2f83e2e3e2474d
+hash: sha256:8e8ab683b12ebcef25a6a7c3da27e550221f48bf300317e4c05d80302a2a5990
